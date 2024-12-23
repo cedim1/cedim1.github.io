@@ -1,0 +1,9 @@
+title: My Blog
+email: your-email@example.com
+description: > # this means to take the entire text until the next indentation level
+  This is my awesome blog where I share my thoughts and experiences.
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://example.com" # the base hostname & protocol for your site
+
+theme: minima
